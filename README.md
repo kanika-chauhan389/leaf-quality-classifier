@@ -18,7 +18,9 @@ This project simulates real-world agricultural applications such as crop disease
 - `README.md`: Project overview and usage guide
 #  Dataset
 This project uses a reduced version of the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease).  
-Please download it manually and place it in your working directory.
+You can also download the prepared dataset (200 images per class) from Google Drive:
+
+🔗 [Download from Drive](https://drive.google.com/file/d/1XnIWIqOl5PWNLH0hT7VzfcWmT9CcOPFf/view?usp=drive_link)
 
 # Applications
 - Plant disease diagnosis
