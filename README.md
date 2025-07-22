@@ -26,7 +26,7 @@ You can also download the prepared dataset (200 images per class) from Google Dr
 - Matplotlib
 - Google Colab
 
-## 🚀 Model Performance
+# Model Performance
 
 | Metric        | Value |
 |---------------|-------|
